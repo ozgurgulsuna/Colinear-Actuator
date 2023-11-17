@@ -1,0 +1,31 @@
+!SESSION 2022-12-20 21:40:04.107 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-12-20 21:40:31.316
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-12-20 21:40:31.388
+!MESSAGE Log4j initialized with config file C:\Users\isikemir\Desktop\Courses\EE493\Github_Repo\Engineering-Design\03-Software\0-Firmware\module_test_demo\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-12-20 21:40:33.947
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-01-05 23:50:07.465 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  C:\Users\isikemir\Desktop\Courses\EE493\Github_Repo\Engineering-Design\03-Software\0-Firmware\module_test_demo\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\isikemir\Desktop\Courses\EE493\Github_Repo\Engineering-Design\03-Software\0-Firmware\module_test_demo\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-01-05 23:50:25.877
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-01-05 23:50:25.954
+!MESSAGE Log4j initialized with config file C:\Users\isikemir\Desktop\Courses\EE493\Github_Repo\Engineering-Design\03-Software\0-Firmware\module_test_demo\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-01-05 23:50:29.632
+!MESSAGE Started RMI Server, listening on port 41337

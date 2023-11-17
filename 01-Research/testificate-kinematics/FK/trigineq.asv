@@ -1,0 +1,32 @@
+%% Triangle Inequality Functions %%
+
+clc
+clear
+%%
+
+syms a b c alpha beta theta;
+
+fcn = b^2 == a^2 + c^2 - 2*a*c*cos(beta);
+
+S = solve(fcn, c);
+
+S = simplify(S)
+
+
+%%
+
+fcn2 = c == b/sin(beta)*sin(pi-beta-(asin(sin(beta)*a/b)));
+
+S2 = solve(fcn2,c);
+
+S2 = simplify(S)
+
+%%
+def
+
+
+
+
+
+
+

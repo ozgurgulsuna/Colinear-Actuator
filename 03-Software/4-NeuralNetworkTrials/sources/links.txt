@@ -1,0 +1,26 @@
+Single Layer Neural Network Implementation from Scratch
+https://www.youtube.com/watch?v=w8yWXqWQYmU
+https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook
+
+https://en.wikipedia.org/wiki/AlexNet
+https://en.wikipedia.org/wiki/Convolutional_neural_network
+
+Kernel Convolution, Gaussian Blurs, Filters
+https://www.youtube.com/watch?v=C_zFhWdM4ic
+
+Convolutional Neural Networks 
+https://www.youtube.com/watch?v=py5byOOHZM8
+
+Canny Edge Detector
+https://www.youtube.com/watch?v=sRFM5IEqR2w
+
+Finding the Edges (Sobel Operator)
+https://www.youtube.com/watch?v=uihBwtPIBxM
+
+
+
+
+
+https://www.youtube.com/watch?v=AqscP7rc8_M
+
+
